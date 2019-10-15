@@ -3,8 +3,9 @@ Training on SVHN http://ufldl.stanford.edu/housenumbers/
 Exploration to see how good YOLO is.
 
 ## Getting started
-1. python setup.py build_ext --inplace
-2. flow --model cfg/yolo-10c.cfg --train --annotation annotation/train --dataset image/train
+1. Download SVHN Dataset Format 1 Train and put it into image/train
+2. Run python setup.py build_ext --inplace
+2. Run flow --model cfg/yolo-10c.cfg --train --annotation annotation/train --dataset image/train
     - You can add the --load [path_to_file] flag if you have pre-trained weights to use.
 
 ## Notes

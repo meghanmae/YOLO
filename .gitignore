@@ -39,3 +39,6 @@ ckpt/*
 
 #pytest cache
 .cache/
+
+#Images
+image/train/
