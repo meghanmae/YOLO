@@ -7,6 +7,8 @@ Exploration to see how good YOLO is.
 * tensorflow 1.13.1 
 * numpy 
 * opencv 3
+* Cython
+
 ## Getting started
 (Omit python keyword if not on windows)
 1. Download SVHN Dataset Format 1 Train and put it into image/train
