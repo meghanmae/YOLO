@@ -2,6 +2,11 @@
 Training on SVHN http://ufldl.stanford.edu/housenumbers/
 Exploration to see how good YOLO is.
 
+## Dependencies
+* Python3 
+* tensorflow 1.13.1 
+* numpy 
+* opencv 3
 ## Getting started
 (Omit python keyword if not on windows)
 1. Download SVHN Dataset Format 1 Train and put it into image/train
