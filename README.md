@@ -12,3 +12,6 @@ Exploration to see how good YOLO is.
 * Annotations can be found at: https://github.com/penny4860/svhn-voc-annotation-format
 * Images can be found at SVHN Format 1: http://ufldl.stanford.edu/housenumbers/
 * Darkflow can be found at: https://github.com/thtrieu/darkflow
+* Pretrained weights:
+    * https://pjreddie.com/media/files/yolov3.weights
+    * https://drive.google.com/drive/folders/0B1tW_VtY7onidEwyQ2FtQVplWEU
